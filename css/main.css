@@ -46,13 +46,20 @@ h2 {
 .textfield {
     height: 140px;
     margin-left: 30px;
-    margin-top: 78px;
+    margin-top: 60px;
 }
 
 .textfield input {
     width: 335px;
     height: 33px;
-    margin-bottom: 49px;
+    margin-bottom: 32px;
+    border-radius: 3px;
+    border: 1px solid #6f6f6f;
+}
+
+label {
+    font-size: 14px;
+    margin-left: 13px;
 }
 
 .regist {
